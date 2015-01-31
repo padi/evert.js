@@ -1,0 +1,22 @@
+{
+  "name": "evert",
+  "version": "0.0.0",
+  "description": "Make simple notes in Evernote without using their app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:padi/evert.js.git"
+  },
+  "keywords": [
+    "evernote"
+  ],
+  "author": "Marc Ignacio <padi@users.noreply.github.com> (http://padi.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/padi/evert.js/issues"
+  },
+  "homepage": "https://github.com/padi/evert.js"
+}
